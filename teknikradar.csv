@@ -20,16 +20,16 @@ JSPM,Avveckla,Språk & Ramverk,FALSE,<p>Pakethanterare för laddning av Javascri
 LESS,Avveckla,Språk & Ramverk,FALSE,<p>CSS kompilator. Använd SASS.</p>
 Javascript,Avveckla,Språk & Ramverk,FALSE,<p>scriptspråk</p>
 JMeter,Tillämpa,Verktyg,FALSE,<p></p>
-Visual studio code,Tillämpa,Verktyg,FALSE,<p></p>
+Visual studio code,Tillämpa,Verktyg,FALSE,<p>Källkodseditor</p>
 Protractor,Tillämpa,Verktyg,FALSE,<p></p>
 Jasmine,Tillämpa,Verktyg,FALSE,<p></p>
-ELK,Tillämpa,Verktyg,FALSE,<p></p>
-npm,Tillämpa,Verktyg,FALSE,<p></p>
+ELK,Tillämpa,Verktyg,FALSE,<p>Elastic, logstash, Kibana</p>
+npm,Tillämpa,Verktyg,FALSE,<p>Beroendehantering för node.js</p>
 Karma,Tillämpa,Verktyg,FALSE,<p></p>
 Mocha,Tillämpa,Verktyg,FALSE,<p></p>
-Servicedesk,Tillämpa,Verktyg,FALSE,<p></p>
-GPO,Tillämpa,Verktyg,FALSE,<p></p>
-Bitbucket,Tillämpa,Verktyg,FALSE,<p></p>
+Servicedesk,Tillämpa,Verktyg,FALSE,<p> IT helpdesk system</p>
+GPO,Tillämpa,Verktyg,FALSE,<p>Client & Server styrning</p>
+Bitbucket,Tillämpa,Verktyg,FALSE,<p>Versionshantering (förpackning av Git)</p>
 GIT,Tillämpa,Verktyg,FALSE,<p></p>
 Gradle,Tillämpa,Verktyg,FALSE,<p></p>
 Bamboo,Tillämpa,Verktyg,FALSE,<p></p>
