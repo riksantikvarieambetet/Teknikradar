@@ -1,113 +1,101 @@
-name,				ring,		quadrant,			isNew,	description
-Angular,			Tillämpa,	"Språk & Ramverk",	False,	<p>.</p>
-SASS,				Tillämpa,	"Språk & Ramverk",	False,	<p></p>
-Powershell,			Tillämpa,	"Språk & Ramverk",	False,	<p></p>
-Openlayers,			Tillämpa,	"Språk & Ramverk",	False,	<p></p>
-PHP,				Tillämpa,	"Språk & Ramverk",	False,	<p></p>
-Typescript,			Tillämpa,	"Språk & Ramverk",	False,	<p></p>
-Geoserver,			Tillämpa,	"Språk & Ramverk",	False,	<p></p>
-Java,				Tillämpa,	"Språk & Ramverk",	False,	<p></p>
-Spring boot,		Tillämpa,	"Språk & Ramverk",	False,	<p></p>
-NODE.JS,			Utvärdera,	"Språk & Ramverk",	False,	<p></p>
-Leaflet (GIS),		Prova,		"Språk & Ramverk",	False,	<p></p>
-Apache Wicket,		Avveckla,	"Språk & Ramverk",	False,	<p></p>
-Visual basic,		Avveckla,	"Språk & Ramverk",	False,	<p></p>
-Java webstart,		Avveckla,	"Språk & Ramverk",	False,	<p></p>
-ANT,				Avveckla,	"Språk & Ramverk",	False,	<p></p>
-Angular.JS,			Avveckla,	"Språk & Ramverk",	False,	<p></p>
-Play1,				Avveckla,	"Språk & Ramverk",	False,	<p></p>
-JSPM,				Avveckla,	"Språk & Ramverk",	False,	<p></p>
-LESS,				Avveckla,	"Språk & Ramverk",	False,	<p></p>
-Javascript,			Avveckla,	"Språk & Ramverk",	False,	<p></p>
-JMeter,				Tillämpa,	Verktyg,	False,	<p></p>
-Visual studio code,	Tillämpa,	Verktyg,	False,	<p></p>
-Protractor,			Tillämpa,	Verktyg,	False,	<p></p>
-Jasmine,			Tillämpa,	Verktyg,	False,	<p></p>
-ELK,				Tillämpa,	Verktyg,	False,	<p></p>
-npm,				Tillämpa,	Verktyg,	False,	<p></p>
-Karma,				Tillämpa,	Verktyg,	False,	<p></p>
-Mocha,				Tillämpa,	Verktyg,	False,	<p></p>
-Servicedesk,		Tillämpa,	Verktyg,	False,	<p></p>
-GPO,				Tillämpa,	Verktyg,	False,	<p></p>
-Bitbucket,			Tillämpa,	Verktyg,	False,	<p></p>
-GIT,				Tillämpa,	Verktyg,	False,	<p></p>
-Gradle,				Tillämpa,	Verktyg,	False,	<p></p>
-Bamboo,				Tillämpa,	Verktyg,	False,	<p></p>
-Jira,				Tillämpa,	Verktyg,	False,	<p></p>
-IntelliJ,			Tillämpa,	Verktyg,	False,	<p></p>
-Puppet,				Tillämpa,	Verktyg,	False,	<p></p>
-Satellit,			Tillämpa,	Verktyg,	False,	<p></p>
-Eclipse,			Tillämpa,	Verktyg,	False,	<p></p>
-Confluence,			Tillämpa,	Verktyg,	False,	<p></p>
-Composer,			Tillämpa,	Verktyg,	False,	<p></p>
-Navicat,			Utvärdera,	Verktyg,	False,	<p></p>
-Greylog,			Utvärdera,	Verktyg,	False,	<p></p>
-Graphana,			Utvärdera,	Verktyg,	False,	<p></p>
-Ansible,			Utvärdera,	Verktyg,	False,	<p></p>
-GO.CD,				Utvärdera,	Verktyg,	False,	<p></p>
-Draw.IO,			Utvärdera,	Verktyg,	False,	<p></p>
-Cucumber,			Utvärdera,	Verktyg,	False,	<p></p>
-Spinnaker,			Utvärdera,	Verktyg,	False,	<p></p>
-Usabilla,			Utvärdera,	Verktyg,	False,	<p></p>
-Docker,				Prova,		Verktyg,	False,	<p></p>
-Screenly,			Prova,		Verktyg,	False,	<p></p>
-Entryscape,			Prova,		Verktyg,	False,	<p></p>
-Capistrano,			Avveckla,	Verktyg,	False,	<p></p>
-Maven,				Avveckla,	Verktyg,	False,	<p></p>
-Iipax,				Tillämpa,	Platform,	False,	<p></p>
-3-heights,			Tillämpa,	Platform,	False,	<p></p>
-platina,			Tillämpa,	Platform,	False,	<p></p>
-IPhone,				Tillämpa,	Platform,	False,	<p></p>
-IPad,				Tillämpa,	Platform,	False,	<p></p>
-Wordpress,			Tillämpa,	Platform,	False,	<p></p>
-Windows Server,		Tillämpa,	Platform,	False,	<p></p>
-Android,			Tillämpa,	Platform,	False,	<p></p>
-MSSQL Server,		Tillämpa,	Platform,	False,	<p></p>
-Webbläsare klient,	Tillämpa,	Platform,	False,	<p></p>
-F5/Zen,				Tillämpa,	Platform,	False,	<p></p>
-MYSQL,				Tillämpa,	Platform,	False,	<p></p>
-PostgreSQL,			Tillämpa,	Platform,	False,	<p></p>
-GeoServer,			Tillämpa,	Platform,	False,	<p></p>
-Active Directory,	Tillämpa,	Platform,	False,	<p></p>
-OP5,				Tillämpa,	Platform,	False,	<p></p>
-Postgis,			Tillämpa,	Platform,	False,	<p></p>
-RedHat,				Tillämpa,	Platform,	False,	<p></p>
-VMware,				Tillämpa,	Platform,	False,	<p></p>
-Apache,				Tillämpa,	Platform,	False,	<p></p>
-Open Shift,								Utvärdera,	Platform,	False,	<p></p>
-"Atomic host + Core OS = Docker OS",		Utvärdera,	Platform,	False,	<p></p>
-"Remote Access - Direct access",			Utvärdera,	Platform,	False,	<p></p>
-Docker Swarm,							Utvärdera,	Platform,	False,	<p></p>
-F5,										Utvärdera,	Platform,	False,	<p></p>
-Applikationsmedveten lastbalanserare,	Utvärdera,	Platform,	False,	<p></p>
-Zevennet,								Utvärdera,	Platform,	False,	<p></p>
-"Kubernetes Tectonic",					Utvärdera,	Platform,	False,	<p></p>
-Entryscape,								Prova,		Platform,	False,	<p></p>
-Cent OS,								Avveckla,	Platform,	False,	<p></p>
-Degree,									Avveckla,	Platform,	False,	<p></p>
-Oracle DB,								Avveckla,	Platform,	False,	<p></p>
-GDPR,									Tillämpa,	Tekniker,	False,	<p></p>
-WCAG,									Tillämpa,	Tekniker,	False,	<p></p>
-REST,									Tillämpa,	Tekniker,	False,	<p></p>
-WMS,									Tillämpa,	Tekniker,	False,	<p></p>
-SCRUM,									Tillämpa,	Tekniker,	False,	<p></p>
-ITIL,									Tillämpa,	Tekniker,	False,	<p></p>
-Geojson 2008,							Tillämpa,	Tekniker,	False,	<p></p>
-DevOps,									Utvärdera,	Tekniker,	False,	<p></p>
-GeoPackage,								Utvärdera,	Tekniker,	False,	<p></p>
-Test Driven Development,				Prova,		Tekniker,	False,	<p></p>
-WFS,									Prova,		Tekniker,	False,	<p></p>
-GeoJSON 2016,							Prova,		Tekniker,	False,	<p></p>
-Sparql,									Avveckla,	Tekniker,	False,	<p></p>
-
-
-
-
-
-
-
-		
-
-
-
-
+name,ring,quadrant,isNew,description
+Angular,Tillämpa,Språk & Ramverk,FALSE,<p>.</p>
+SASS,Tillämpa,Språk & Ramverk,FALSE,<p></p>
+Powershell,Tillämpa,Språk & Ramverk,FALSE,<p></p>
+Openlayers,Tillämpa,Språk & Ramverk,FALSE,<p></p>
+PHP,Tillämpa,Språk & Ramverk,FALSE,<p></p>
+Typescript,Tillämpa,Språk & Ramverk,FALSE,<p></p>
+Geoserver,Tillämpa,Språk & Ramverk,FALSE,<p></p>
+Java,Tillämpa,Språk & Ramverk,FALSE,<p></p>
+Spring boot,Tillämpa,Språk & Ramverk,FALSE,<p></p>
+NODE.JS,Utvärdera,Språk & Ramverk,FALSE,<p></p>
+Leaflet (GIS),Prova,Språk & Ramverk,FALSE,<p></p>
+Apache Wicket,Avveckla,Språk & Ramverk,FALSE,<p></p>
+Visual basic,Avveckla,Språk & Ramverk,FALSE,<p></p>
+Java webstart,Avveckla,Språk & Ramverk,FALSE,<p></p>
+ANT,Avveckla,Språk & Ramverk,FALSE,<p></p>
+Angular.JS,Avveckla,Språk & Ramverk,FALSE,<p></p>
+Play1,Avveckla,Språk & Ramverk,FALSE,<p></p>
+JSPM,Avveckla,Språk & Ramverk,FALSE,<p></p>
+LESS,Avveckla,Språk & Ramverk,FALSE,<p></p>
+Javascript,Avveckla,Språk & Ramverk,FALSE,<p></p>
+JMeter,Tillämpa,Verktyg,FALSE,<p></p>
+Visual studio code,Tillämpa,Verktyg,FALSE,<p></p>
+Protractor,Tillämpa,Verktyg,FALSE,<p></p>
+Jasmine,Tillämpa,Verktyg,FALSE,<p></p>
+ELK,Tillämpa,Verktyg,FALSE,<p></p>
+npm,Tillämpa,Verktyg,FALSE,<p></p>
+Karma,Tillämpa,Verktyg,FALSE,<p></p>
+Mocha,Tillämpa,Verktyg,FALSE,<p></p>
+Servicedesk,Tillämpa,Verktyg,FALSE,<p></p>
+GPO,Tillämpa,Verktyg,FALSE,<p></p>
+Bitbucket,Tillämpa,Verktyg,FALSE,<p></p>
+GIT,Tillämpa,Verktyg,FALSE,<p></p>
+Gradle,Tillämpa,Verktyg,FALSE,<p></p>
+Bamboo,Tillämpa,Verktyg,FALSE,<p></p>
+Jira,Tillämpa,Verktyg,FALSE,<p></p>
+IntelliJ,Tillämpa,Verktyg,FALSE,<p></p>
+Puppet,Tillämpa,Verktyg,FALSE,<p></p>
+Satellit,Tillämpa,Verktyg,FALSE,<p></p>
+Eclipse,Tillämpa,Verktyg,FALSE,<p></p>
+Confluence,Tillämpa,Verktyg,FALSE,<p></p>
+Composer,Tillämpa,Verktyg,FALSE,<p></p>
+Navicat,Utvärdera,Verktyg,FALSE,<p></p>
+Greylog,Utvärdera,Verktyg,FALSE,<p></p>
+Graphana,Utvärdera,Verktyg,FALSE,<p></p>
+Ansible,Utvärdera,Verktyg,FALSE,<p></p>
+GO.CD,Utvärdera,Verktyg,FALSE,<p></p>
+Draw.IO,Utvärdera,Verktyg,FALSE,<p></p>
+Cucumber,Utvärdera,Verktyg,FALSE,<p></p>
+Spinnaker,Utvärdera,Verktyg,FALSE,<p></p>
+Usabilla,Utvärdera,Verktyg,FALSE,<p></p>
+Docker,Prova,Verktyg,FALSE,<p></p>
+Screenly,Prova,Verktyg,FALSE,<p></p>
+Entryscape,Prova,Verktyg,FALSE,<p></p>
+Capistrano,Avveckla,Verktyg,FALSE,<p></p>
+Maven,Avveckla,Verktyg,FALSE,<p></p>
+Iipax,Tillämpa,Platform,FALSE,<p></p>
+3-heights,Tillämpa,Platform,FALSE,<p></p>
+platina,Tillämpa,Platform,FALSE,<p></p>
+IPhone,Tillämpa,Platform,FALSE,<p></p>
+IPad,Tillämpa,Platform,FALSE,<p></p>
+Wordpress,Tillämpa,Platform,FALSE,<p></p>
+Windows Server,Tillämpa,Platform,FALSE,<p></p>
+Android,Tillämpa,Platform,FALSE,<p></p>
+MSSQL Server,Tillämpa,Platform,FALSE,<p></p>
+Webbläsare klient,Tillämpa,Platform,FALSE,<p></p>
+F5/Zen,Tillämpa,Platform,FALSE,<p></p>
+MYSQL,Tillämpa,Platform,FALSE,<p></p>
+PostgreSQL,Tillämpa,Platform,FALSE,<p></p>
+GeoServer,Tillämpa,Platform,FALSE,<p></p>
+Active Directory,Tillämpa,Platform,FALSE,<p></p>
+OP5,Tillämpa,Platform,FALSE,<p></p>
+Postgis,Tillämpa,Platform,FALSE,<p></p>
+RedHat,Tillämpa,Platform,FALSE,<p></p>
+VMware,Tillämpa,Platform,FALSE,<p></p>
+Apache,Tillämpa,Platform,FALSE,<p></p>
+Open Shift,Utvärdera,Platform,FALSE,<p></p>
+Atomic host + Core OS = Docker OS,Utvärdera,Platform,FALSE,<p></p>
+Remote Access - Direct access,Utvärdera,Platform,FALSE,<p></p>
+Docker Swarm,Utvärdera,Platform,FALSE,<p></p>
+F5,Utvärdera,Platform,FALSE,<p></p>
+Applikationsmedveten lastbalanserare,Utvärdera,Platform,FALSE,<p></p>
+Zevennet,Utvärdera,Platform,FALSE,<p></p>
+Kubernetes Tectonic,Utvärdera,Platform,FALSE,<p></p>
+Entryscape,Prova,Platform,FALSE,<p></p>
+Cent OS,Avveckla,Platform,FALSE,<p></p>
+Degree,Avveckla,Platform,FALSE,<p></p>
+Oracle DB,Avveckla,Platform,FALSE,<p></p>
+GDPR,Tillämpa,Tekniker,FALSE,<p></p>
+WCAG,Tillämpa,Tekniker,FALSE,<p></p>
+REST,Tillämpa,Tekniker,FALSE,<p></p>
+WMS,Tillämpa,Tekniker,FALSE,<p></p>
+SCRUM,Tillämpa,Tekniker,FALSE,<p></p>
+ITIL,Tillämpa,Tekniker,FALSE,<p></p>
+Geojson 2008,Tillämpa,Tekniker,FALSE,<p></p>
+DevOps,Utvärdera,Tekniker,FALSE,<p></p>
+GeoPackage,Utvärdera,Tekniker,FALSE,<p></p>
+Test Driven Development,Prova,Tekniker,FALSE,<p></p>
+WFS,Prova,Tekniker,FALSE,<p></p>
+GeoJSON 2016,Prova,Tekniker,FALSE,<p></p>
+Sparql,Avveckla,Tekniker,FALSE,<p></p>
