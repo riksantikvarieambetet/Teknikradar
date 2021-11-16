@@ -23,7 +23,7 @@ JMeter,Tillämpa,Verktyg,FALSE,<p></p>
 Visual studio code,Tillämpa,Verktyg,FALSE,<p>Källkodseditor</p>
 Protractor,Tillämpa,Verktyg,FALSE,<p></p>
 Jasmine,Tillämpa,Verktyg,FALSE,<p></p>
-ELK,Tillämpa,Verktyg,FALSE,<p>Elastic, logstash, Kibana</p>
+ELK,Tillämpa,Verktyg,FALSE,<p>Elastic logstash Kibana</p>
 npm,Tillämpa,Verktyg,FALSE,<p>Beroendehantering för node.js</p>
 Karma,Tillämpa,Verktyg,FALSE,<p></p>
 Mocha,Tillämpa,Verktyg,FALSE,<p></p>
