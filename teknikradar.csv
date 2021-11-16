@@ -1,13 +1,13 @@
 name,ring,quadrant,isNew,description
-Angular,Tillämpa,Språk & Ramverk,FALSE,<p>.</p>
-SASS,Tillämpa,Språk & Ramverk,FALSE,<p></p>
-Powershell,Tillämpa,Språk & Ramverk,FALSE,<p></p>
-Openlayers,Tillämpa,Språk & Ramverk,FALSE,<p></p>
-PHP,Tillämpa,Språk & Ramverk,FALSE,<p></p>
-Typescript,Tillämpa,Språk & Ramverk,FALSE,<p></p>
-Geoserver,Tillämpa,Språk & Ramverk,FALSE,<p></p>
-Java,Tillämpa,Språk & Ramverk,FALSE,<p></p>
-Spring boot,Tillämpa,Språk & Ramverk,FALSE,<p></p>
+Angular,Tillämpa,Språk & Ramverk,FALSE,<p>GUI ramverk för utveckling av e-tjänster och handläggningstjänster</p>
+SASS,Tillämpa,Språk & Ramverk,FALSE,<p>CSS kompilator</p>
+Powershell,Tillämpa,Språk & Ramverk,FALSE,<p>Kommandoskal för Windows</p>
+Openlayers,Tillämpa,Språk & Ramverk,FALSE,<p> Klientramverk för utveckling av kartapplikationer	</p>
+PHP,Tillämpa,Språk & Ramverk,FALSE,<p> Språk för utveckling av webbapplikationer	</p>
+Typescript,Tillämpa,Språk & Ramverk,FALSE,<p> Utökning av Javascript med typning	</p>
+Geoserver,Tillämpa,Språk & Ramverk,FALSE,<p> Applikationsserver för karttjänster	</p>
+Java,Tillämpa,Språk & Ramverk,FALSE,<p> Plattformsoberoende programmeringsspråk	</p>
+Spring boot,Tillämpa,Språk & Ramverk,FALSE,<p> Applikationsserver med ramverket Spring	</p>
 NODE.JS,Utvärdera,Språk & Ramverk,FALSE,<p></p>
 Leaflet (GIS),Prova,Språk & Ramverk,FALSE,<p></p>
 Apache Wicket,Avveckla,Språk & Ramverk,FALSE,<p></p>
