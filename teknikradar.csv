@@ -8,17 +8,17 @@ Typescript,Tillämpa,Språk & Ramverk,FALSE,<p> Utökning av Javascript med typn
 Geoserver,Tillämpa,Språk & Ramverk,FALSE,<p> Applikationsserver för karttjänster	</p>
 Java,Tillämpa,Språk & Ramverk,FALSE,<p> Plattformsoberoende programmeringsspråk	</p>
 Spring boot,Tillämpa,Språk & Ramverk,FALSE,<p> Applikationsserver med ramverket Spring	</p>
-NODE.JS,Utvärdera,Språk & Ramverk,FALSE,<p></p>
-Leaflet (GIS),Prova,Språk & Ramverk,FALSE,<p></p>
-Apache Wicket,Avveckla,Språk & Ramverk,FALSE,<p></p>
-Visual basic,Avveckla,Språk & Ramverk,FALSE,<p></p>
+NODE.JS,Utvärdera,Språk & Ramverk,FALSE,<p>som appserver-web i produktion</p>
+Leaflet (GIS),Prova,Språk & Ramverk,FALSE,<p>Klientramverk för utveckling av kartapplikationer</p>
+Apache Wicket,Avveckla,Språk & Ramverk,FALSE,<p>Java serverside web ramverk</p>
+Visual basic,Avveckla,Språk & Ramverk,FALSE,<p>Programspråk i BASIC-familjen som är utvecklat av Microsoft</p>
 Java webstart,Avveckla,Språk & Ramverk,FALSE,<p></p>
-ANT,Avveckla,Språk & Ramverk,FALSE,<p></p>
-Angular.JS,Avveckla,Språk & Ramverk,FALSE,<p></p>
-Play1,Avveckla,Språk & Ramverk,FALSE,<p></p>
-JSPM,Avveckla,Språk & Ramverk,FALSE,<p></p>
-LESS,Avveckla,Språk & Ramverk,FALSE,<p></p>
-Javascript,Avveckla,Språk & Ramverk,FALSE,<p></p>
+ANT,Avveckla,Språk & Ramverk,FALSE,<p>Verktyg för att i första hand automatisera byggen av datorprogram skrivna i Java</p>
+Angular.JS,Avveckla,Språk & Ramverk,FALSE,<p>JavaScript baserat  open-source front-end web-ramverk</p>
+Play1,Avveckla,Språk & Ramverk,FALSE,<p>Webbramverk. Ramverk som användes vid utveckling av Platser.</p>
+JSPM,Avveckla,Språk & Ramverk,FALSE,<p>Pakethanterare för laddning av Javascript vid utveckling av webbapplikationer. Användes initialt vid utveckling av Arkreg.</p>
+LESS,Avveckla,Språk & Ramverk,FALSE,<p>CSS kompilator. Använd SASS.</p>
+Javascript,Avveckla,Språk & Ramverk,FALSE,<p>scriptspråk</p>
 JMeter,Tillämpa,Verktyg,FALSE,<p></p>
 Visual studio code,Tillämpa,Verktyg,FALSE,<p></p>
 Protractor,Tillämpa,Verktyg,FALSE,<p></p>
