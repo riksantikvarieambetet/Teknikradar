@@ -54,26 +54,26 @@ Screenly,Prova,Verktyg,FALSE,<p> Dashboard sw</p>
 Entryscape,Prova,Verktyg,FALSE,<p>Informationshanteringsplatform för öppen data</p>
 Capistrano,Avveckla,Verktyg,FALSE,<p> Deplyoyment verktyg. Ersatt av bamboo</p>
 Maven,Avveckla,Verktyg,FALSE,<p></p>
-Iipax,Tillämpa,Platform,FALSE,<p></p>
-3-heights,Tillämpa,Platform,FALSE,<p></p>
-platina,Tillämpa,Platform,FALSE,<p></p>
-IPhone,Tillämpa,Platform,FALSE,<p></p>
-IPad,Tillämpa,Platform,FALSE,<p></p>
-Wordpress,Tillämpa,Platform,FALSE,<p></p>
-Windows Server,Tillämpa,Platform,FALSE,<p></p>
-Android,Tillämpa,Platform,FALSE,<p></p>
-MSSQL Server,Tillämpa,Platform,FALSE,<p></p>
-Webbläsare klient,Tillämpa,Platform,FALSE,<p></p>
-F5/Zen,Tillämpa,Platform,FALSE,<p></p>
-MYSQL,Tillämpa,Platform,FALSE,<p></p>
-PostgreSQL,Tillämpa,Platform,FALSE,<p></p>
-GeoServer,Tillämpa,Platform,FALSE,<p></p>
-Active Directory,Tillämpa,Platform,FALSE,<p></p>
-OP5,Tillämpa,Platform,FALSE,<p></p>
-Postgis,Tillämpa,Platform,FALSE,<p></p>
-RedHat,Tillämpa,Platform,FALSE,<p></p>
-VMware,Tillämpa,Platform,FALSE,<p></p>
-Apache,Tillämpa,Platform,FALSE,<p></p>
+Iipax,Tillämpa,Platform,FALSE,<p>e-arkiv</p>
+3-heights,Tillämpa,Platform,FALSE,<p>Konvertering av MS-office dokument till PDF/A</p>
+platina,Tillämpa,Platform,FALSE,<p>Ärendehandläggning och diarie</p>
+IPhone,Tillämpa,Platform,FALSE,<p>Mobiltelefon</p>
+IPad,Tillämpa,Platform,FALSE,<p>Surfplatta</p>
+Wordpress,Tillämpa,Platform,FALSE,<p>CMS-verktyg</p>
+Windows Server,Tillämpa,Platform,FALSE,<p>Server-OS från Microsoft</p>
+Android,Tillämpa,Platform,FALSE,<p>Mobil-OS från Google</p>
+MSSQL Server,Tillämpa,Platform,FALSE,<p>Relationsdatabas</p>
+Webbläsare klient,Tillämpa,Platform,FALSE,<p>IE, Edge,Firefox, Chrome, Safari</p>
+F5/Zen,Tillämpa,Platform,FALSE,<p>Lastbalanserare</p>
+MYSQL,Tillämpa,Platform,FALSE,<p>Relationsdatabas</p>
+PostgreSQL,Tillämpa,Platform,FALSE,<p>Relationsdatabas</p>
+GeoServer,Tillämpa,Platform,FALSE,<p>Applikationsserver för karttjänster</p>
+Active Directory,Tillämpa,Platform,FALSE,<p>Katalogtjänst</p>
+OP5,Tillämpa,Platform,FALSE,<p>Övervakningsverktyg</p>
+Postgis,Tillämpa,Platform,FALSE,<p>GIS-funktionalitet för PostgreSQL</p>
+RedHat,Tillämpa,Platform,FALSE,<p>Linuxbaserat operativsystem</p>
+VMware,Tillämpa,Platform,FALSE,<p>Virtualiseringsprogramvara</p>
+Apache,Tillämpa,Platform,FALSE,<p>Webbserver</p>
 Open Shift,Utvärdera,Platform,FALSE,<p></p>
 Atomic host + Core OS = Docker OS,Utvärdera,Platform,FALSE,<p></p>
 Remote Access - Direct access,Utvärdera,Platform,FALSE,<p></p>
@@ -81,8 +81,8 @@ Docker Swarm,Utvärdera,Platform,FALSE,<p></p>
 F5,Utvärdera,Platform,FALSE,<p></p>
 Applikationsmedveten lastbalanserare,Utvärdera,Platform,FALSE,<p></p>
 Zevennet,Utvärdera,Platform,FALSE,<p></p>
-Kubernetes Tectonic,Utvärdera,Platform,FALSE,<p></p>
-Entryscape,Prova,Platform,FALSE,<p></p>
+Kubernetes Tectonic,Utvärdera,Platform,FALSE,<p>Tectonic ships with CoreOS's signature Automated Operations, enables portability across private and public cloud providers, and is always upstream open source.</p>
+Entryscape,Prova,Platform,FALSE,<p>LOD platform</p>
 Cent OS,Avveckla,Platform,FALSE,<p></p>
 Degree,Avveckla,Platform,FALSE,<p></p>
 Oracle DB,Avveckla,Platform,FALSE,<p></p>
