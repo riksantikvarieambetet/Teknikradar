@@ -1,33 +1,27 @@
 name,ring,quadrant,isNew,description
-Angular,Tillämpa,Språk & Ramverk,FALSE,<p>GUI ramverk för utveckling av e-tjänster och handläggningstjänster</p>
+Angular,Avveckla,Språk & Ramverk,FALSE,<p>GUI ramverk för utveckling av e-tjänster och handläggningstjänster</p>
 SASS,Tillämpa,Språk & Ramverk,FALSE,<p>CSS kompilator</p>
-Powershell,Tillämpa,Språk & Ramverk,FALSE,<p>Kommandoskal för Windows</p>
+Powershell,Tillämpa,Språk & Ramverk,FALSE,<p>Kommandoskal för Windows, anders uppdaterar</p>
 Openlayers,Tillämpa,Språk & Ramverk,FALSE,<p> Klientramverk för utveckling av kartapplikationer	</p>
 PHP,Tillämpa,Språk & Ramverk,FALSE,<p> Språk för utveckling av webbapplikationer	</p>
 Typescript,Tillämpa,Språk & Ramverk,FALSE,<p> Utökning av Javascript med typning	</p>
 Geoserver,Tillämpa,Språk & Ramverk,FALSE,<p> Applikationsserver för karttjänster	</p>
 Java,Tillämpa,Språk & Ramverk,FALSE,<p> Plattformsoberoende programmeringsspråk	</p>
 Spring boot,Tillämpa,Språk & Ramverk,FALSE,<p> Applikationsserver med ramverket Spring	</p>
-NODE.JS,Utvärdera,Språk & Ramverk,FALSE,<p>som appserver-web i produktion</p>
-Leaflet (GIS),Prova,Språk & Ramverk,FALSE,<p>Klientramverk för utveckling av kartapplikationer</p>
+NODE.JS,Tillämpa,Språk & Ramverk,FALSE,<p>som appserver-web i produktion</p>
 Apache Wicket,Avveckla,Språk & Ramverk,FALSE,<p>Java serverside web ramverk</p>
 Visual basic,Avveckla,Språk & Ramverk,FALSE,<p>Programspråk i BASIC-familjen som är utvecklat av Microsoft</p>
-Java webstart,Avveckla,Språk & Ramverk,FALSE,<p></p>
-ANT,Avveckla,Språk & Ramverk,FALSE,<p>Verktyg för att i första hand automatisera byggen av datorprogram skrivna i Java</p>
-Angular.JS,Avveckla,Språk & Ramverk,FALSE,<p>JavaScript baserat  open-source front-end web-ramverk</p>
-Play1,Avveckla,Språk & Ramverk,FALSE,<p>Webbramverk. Ramverk som användes vid utveckling av Platser.</p>
-JSPM,Avveckla,Språk & Ramverk,FALSE,<p>Pakethanterare för laddning av Javascript vid utveckling av webbapplikationer. Användes initialt vid utveckling av Arkreg.</p>
-LESS,Avveckla,Språk & Ramverk,FALSE,<p>CSS kompilator. Använd SASS.</p>
-Javascript,Avveckla,Språk & Ramverk,FALSE,<p>scriptspråk</p>
-JMeter,Tillämpa,Verktyg,FALSE,<p></p>
+ANT,Avveckla,Språk & Ramverk,FALSE,<p>Verktyg för att i första hand automatisera byggen av datorprogram skrivna i Java, BeBR</p>
+JMeter,Tillämpa,Verktyg,FALSE,<p>Lars uppdatera</p>
 Visual studio code,Tillämpa,Verktyg,FALSE,<p>Källkodseditor</p>
-Protractor,Tillämpa,Verktyg,FALSE,<p></p>
-Jasmine,Tillämpa,Verktyg,FALSE,<p></p>
-ELK,Tillämpa,Verktyg,FALSE,<p>Elastic logstash Kibana</p>
+Protractor,Utvärdera,Verktyg,FALSE,<p>Viktor uppdaterar</p>
+Cypress,Utvärdera,Verktyg,TRUE,<p>Viktor uppdaterar</p>
+Jasmine,Tillämpa,Verktyg,FALSE,<p>Viktor uppdaterar</p>
+Log analytics,Tillämpa,Verktyg,FALSE,<p>Elastic search logstash Kibana paketerat av ITRS</p>
 npm,Tillämpa,Verktyg,FALSE,<p>Beroendehantering för node.js</p>
-Karma,Tillämpa,Verktyg,FALSE,<p></p>
-Mocha,Tillämpa,Verktyg,FALSE,<p></p>
-Servicedesk,Tillämpa,Verktyg,FALSE,<p> IT helpdesk system</p>
+Karma,Tillämpa,Verktyg,FALSE,<p>Viktor uppdaterar</p>
+Mocha,Tillämpa,Verktyg,FALSE,<p>Viktor uppdaterar</p>
+TopDesk,Tillämpa,Verktyg,TRUE,<p> IT helpdesk system</p>
 GPO,Tillämpa,Verktyg,FALSE,<p>Client & Server styrning</p>
 Bitbucket,Tillämpa,Verktyg,FALSE,<p>Versionshantering (förpackning av Git)</p>
 GIT,Tillämpa,Verktyg,FALSE,<p>Versionshantering</p>
@@ -39,32 +33,27 @@ Puppet,Tillämpa,Verktyg,FALSE,<p>Central hantering och konfiguration</p>
 Satellit,Tillämpa,Verktyg,FALSE,<p>Central dist/installation av programvara</p>
 Eclipse,Tillämpa,Verktyg,FALSE,<p>IDE</p>
 Confluence,Tillämpa,Verktyg,FALSE,<p>Wiki</p>
-Composer,Tillämpa,Verktyg,FALSE,<p> Beroendehanterare för PHP</p>
-Navicat,Utvärdera,Verktyg,FALSE,<p>DB-verktyg</p>
-Greylog,Utvärdera,Verktyg,FALSE,<p> Logghantering och visualisering av data. Idag testar vi kibana(ELK)</p>
-Graphana,Utvärdera,Verktyg,FALSE,<p> Visualisering av loggar och andra intressanta data. Idag testar vi kibana(ELK)</p>
-Ansible,Utvärdera,Verktyg,FALSE,<p> Automatisering för alla. tex En del av orkestreringen av docker.</p>
-GO.CD,Utvärdera,Verktyg,FALSE,<p> verktyg för continuous delivery.<a href="https://www.gocd.org/">GO.CD</a></p>
-Draw.IO,Utvärdera,Verktyg,FALSE,<p> Visio i webläsaren. Skapa ritningar direkt i raawiki</p>
-Cucumber,Utvärdera,Verktyg,FALSE,<p>behovsdriven testskapande</p>
-Spinnaker,Utvärdera,Verktyg,FALSE,<p>Verktyg för continuous delivery. <a href="https://www.spinnaker.io/">Spinnaker.io</a></p>
-Usabilla,Utvärdera,Verktyg,FALSE,<p> Feedback knappar på våra applikationer. Collect user feedback and improve your websites, apps and emails with Usabilla's Voice of Customer Solutions.</p>
-Docker,Prova,Verktyg,FALSE,<p> Virtualiserade Applikationer. Används idag av ISY för att testbygga sina applikationer.</p>
-Screenly,Prova,Verktyg,FALSE,<p> Dashboard sw</p>
-Entryscape,Prova,Verktyg,FALSE,<p>Informationshanteringsplatform för öppen data</p>
-Capistrano,Avveckla,Verktyg,FALSE,<p> Deplyoyment verktyg. Ersatt av bamboo</p>
-Maven,Avveckla,Verktyg,FALSE,<p></p>
+Composer,Tillämpa,Verktyg,FALSE,<p>Beroendehanterare för PHP, Kolla med Sebastian</p>
+Navicat,Tillämpa,Verktyg,FALSE,<p>DB-verktyg</p>
+Graphana,Utvärdera,Verktyg,FALSE,<p> Visualisering av loggar och andra intressanta data. Idag testar vi kibana(ELK),kolla med Jens</p>
+Ansible,Utvärdera,Verktyg,FALSE,<p> Automatisering för alla. tex En del av orkestreringen av docker. Kolla med jens</p>
+Draw.IO,Tillämpa,Verktyg,FALSE,<p> Visio i webläsaren. Skapa ritningar direkt i raawiki</p>
+Cucumber,Utvärdera,Verktyg,FALSE,<p>behovsdriven testskapande, Kolla med Lars</p>
+Docker,Tillämpa,Verktyg,FALSE,<p> Virtualiserade Applikationer. Används idag av ISY för att testbygga sina applikationer.</p>
+Maven,Avveckla,Verktyg,FALSE,<p>Har vi gamla projekt som byggs med Maven?</p>
+GDPRverktyg,Tillämpa,Tekniker,FALSE,<p>Hugo kollar</p>
 Iipax,Tillämpa,Platform,FALSE,<p>e-arkiv</p>
 3-heights,Tillämpa,Platform,FALSE,<p>Konvertering av MS-office dokument till PDF/A</p>
 platina,Tillämpa,Platform,FALSE,<p>Ärendehandläggning och diarie</p>
-IPhone,Tillämpa,Platform,FALSE,<p>Mobiltelefon</p>
-IPad,Tillämpa,Platform,FALSE,<p>Surfplatta</p>
 Wordpress,Tillämpa,Platform,FALSE,<p>CMS-verktyg</p>
+Joomla,Prova,Platform,FALSE,<p>CMS-verktyg</p>
+Plesk,Tillämpa,Platform,FALSE,<p>CMS-verktyg</p>
 Windows Server,Tillämpa,Platform,FALSE,<p>Server-OS från Microsoft</p>
 Android,Tillämpa,Platform,FALSE,<p>Mobil-OS från Google</p>
+IOS,Tillämpa,Platform,FALSE,<p>Mobil-OS från Apple</p>
 MSSQL Server,Tillämpa,Platform,FALSE,<p>Relationsdatabas</p>
-Webbläsare klient,Tillämpa,Platform,FALSE,<p>IE, Edge,Firefox, Chrome, Safari</p>
-F5/Zen,Tillämpa,Platform,FALSE,<p>Lastbalanserare</p>
+Webbläsare klient,Tillämpa,Platform,FALSE,<p>Edge, Firefox, Chrome, Safari</p>
+F5,Tillämpa,Platform,FALSE,<p>Lastbalanserare</p>
 MYSQL,Tillämpa,Platform,FALSE,<p>Relationsdatabas</p>
 PostgreSQL,Tillämpa,Platform,FALSE,<p>Relationsdatabas</p>
 GeoServer,Tillämpa,Platform,FALSE,<p>Applikationsserver för karttjänster</p>
@@ -72,30 +61,17 @@ Active Directory,Tillämpa,Platform,FALSE,<p>Katalogtjänst</p>
 OP5,Tillämpa,Platform,FALSE,<p>Övervakningsverktyg</p>
 Postgis,Tillämpa,Platform,FALSE,<p>GIS-funktionalitet för PostgreSQL</p>
 RedHat,Tillämpa,Platform,FALSE,<p>Linuxbaserat operativsystem</p>
+Alpine,Tillämpa,Platform,FALSE,<p>Linuxbaserat operativsystem docker optimerat</p>
 VMware,Tillämpa,Platform,FALSE,<p>Virtualiseringsprogramvara</p>
 Apache,Tillämpa,Platform,FALSE,<p>Webbserver</p>
-Open Shift,Utvärdera,Platform,FALSE,<p></p>
-Atomic host + Core OS = Docker OS,Utvärdera,Platform,FALSE,<p></p>
-Remote Access - Direct access,Utvärdera,Platform,FALSE,<p></p>
-Docker Swarm,Utvärdera,Platform,FALSE,<p></p>
-F5,Utvärdera,Platform,FALSE,<p></p>
-Applikationsmedveten lastbalanserare,Utvärdera,Platform,FALSE,<p></p>
-Zevennet,Utvärdera,Platform,FALSE,<p></p>
-Kubernetes Tectonic,Utvärdera,Platform,FALSE,<p>Tectonic ships with CoreOS's signature Automated Operations, enables portability across private and public cloud providers, and is always upstream open source.</p>
-Entryscape,Prova,Platform,FALSE,<p>LOD platform</p>
+Remote Access - Direct access,Utvärdera,Platform,FALSE,<p>Microsoft VPN lösning?, Anders kollar!</p>
 Cent OS,Avveckla,Platform,FALSE,<p></p>
-Degree,Avveckla,Platform,FALSE,<p></p>
+Degree,Avveckla,Platform,FALSE,<p>kolla om vi har kvar den, Toni</p>
 Oracle DB,Avveckla,Platform,FALSE,<p></p>
-GDPR,Tillämpa,Tekniker,FALSE,<p></p>
-WCAG,Tillämpa,Tekniker,FALSE,<p></p>
 REST,Tillämpa,Tekniker,FALSE,<p></p>
 WMS,Tillämpa,Tekniker,FALSE,<p></p>
-SCRUM,Tillämpa,Tekniker,FALSE,<p></p>
-ITIL,Tillämpa,Tekniker,FALSE,<p></p>
 Geojson 2008,Tillämpa,Tekniker,FALSE,<p></p>
-DevOps,Utvärdera,Tekniker,FALSE,<p></p>
-GeoPackage,Utvärdera,Tekniker,FALSE,<p></p>
-Test Driven Development,Prova,Tekniker,FALSE,<p></p>
+GeoPackage,Tillämpa,Tekniker,FALSE,<p></p>
 WFS,Prova,Tekniker,FALSE,<p></p>
 GeoJSON 2016,Prova,Tekniker,FALSE,<p></p>
-Sparql,Avveckla,Tekniker,FALSE,<p></p>
+Sparql,Prova,Tekniker,FALSE,<p></p>
