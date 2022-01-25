@@ -1,7 +1,7 @@
 name,ring,quadrant,isNew,description
 Angular,Avveckla,Språk & Ramverk,FALSE,<p>GUI ramverk för utveckling av e-tjänster och handläggningstjänster</p>
 SASS,Tillämpa,Språk & Ramverk,FALSE,<p>CSS kompilator</p>
-Powershell,Tillämpa,Språk & Ramverk,FALSE,<p>Kommandoskal för Windows, anders uppdaterar</p>
+Powershell,Tillämpa,Språk & Ramverk,FALSE,<p>Kommandoskal för Windows. anders uppdaterar</p>
 Openlayers,Tillämpa,Språk & Ramverk,FALSE,<p> Klientramverk för utveckling av kartapplikationer	</p>
 PHP,Tillämpa,Språk & Ramverk,FALSE,<p> Språk för utveckling av webbapplikationer	</p>
 Typescript,Tillämpa,Språk & Ramverk,FALSE,<p> Utökning av Javascript med typning	</p>
@@ -33,12 +33,12 @@ Puppet,Tillämpa,Verktyg,FALSE,<p>Central hantering och konfiguration</p>
 Satellit,Tillämpa,Verktyg,FALSE,<p>Central dist/installation av programvara</p>
 Eclipse,Tillämpa,Verktyg,FALSE,<p>IDE</p>
 Confluence,Tillämpa,Verktyg,FALSE,<p>Wiki</p>
-Composer,Tillämpa,Verktyg,FALSE,<p>Beroendehanterare för PHP, Kolla med Sebastian</p>
+Composer,Tillämpa,Verktyg,FALSE,<p>Beroendehanterare för PHP. Kolla med Sebastian</p>
 Navicat,Tillämpa,Verktyg,FALSE,<p>DB-verktyg</p>
-Graphana,Utvärdera,Verktyg,FALSE,<p> Visualisering av loggar och andra intressanta data. Idag testar vi kibana(ELK),kolla med Jens</p>
+Graphana,Utvärdera,Verktyg,FALSE,<p> Visualisering av loggar och andra intressanta data. Idag testar vi kibana(ELK). kolla med Jens</p>
 Ansible,Utvärdera,Verktyg,FALSE,<p> Automatisering för alla. tex En del av orkestreringen av docker. Kolla med jens</p>
 Draw.IO,Tillämpa,Verktyg,FALSE,<p> Visio i webläsaren. Skapa ritningar direkt i raawiki</p>
-Cucumber,Utvärdera,Verktyg,FALSE,<p>behovsdriven testskapande, Kolla med Lars</p>
+Cucumber,Utvärdera,Verktyg,FALSE,<p>behovsdriven testskapande. Kolla med Lars</p>
 Docker,Tillämpa,Verktyg,FALSE,<p> Virtualiserade Applikationer. Används idag av ISY för att testbygga sina applikationer.</p>
 Maven,Avveckla,Verktyg,FALSE,<p>Har vi gamla projekt som byggs med Maven?</p>
 GDPRverktyg,Tillämpa,Tekniker,FALSE,<p>Hugo kollar</p>
@@ -52,7 +52,7 @@ Windows Server,Tillämpa,Platform,FALSE,<p>Server-OS från Microsoft</p>
 Android,Tillämpa,Platform,FALSE,<p>Mobil-OS från Google</p>
 IOS,Tillämpa,Platform,FALSE,<p>Mobil-OS från Apple</p>
 MSSQL Server,Tillämpa,Platform,FALSE,<p>Relationsdatabas</p>
-Webbläsare klient,Tillämpa,Platform,FALSE,<p>Edge, Firefox, Chrome, Safari</p>
+Webbläsare klient,Tillämpa,Platform,FALSE,<p>Edge. Firefox. Chrome. Safari</p>
 F5,Tillämpa,Platform,FALSE,<p>Lastbalanserare</p>
 MYSQL,Tillämpa,Platform,FALSE,<p>Relationsdatabas</p>
 PostgreSQL,Tillämpa,Platform,FALSE,<p>Relationsdatabas</p>
@@ -64,7 +64,7 @@ RedHat,Tillämpa,Platform,FALSE,<p>Linuxbaserat operativsystem</p>
 Alpine,Tillämpa,Platform,FALSE,<p>Linuxbaserat operativsystem docker optimerat</p>
 VMware,Tillämpa,Platform,FALSE,<p>Virtualiseringsprogramvara</p>
 Apache,Tillämpa,Platform,FALSE,<p>Webbserver</p>
-Remote Access - Direct access,Utvärdera,Platform,FALSE,<p>Microsoft VPN lösning?, Anders kollar!</p>
+Remote Access - Direct access,Utvärdera,Platform,FALSE,<p>Microsoft VPN lösning?. Anders kollar!</p>
 Cent OS,Avveckla,Platform,FALSE,<p></p>
 Degree,Avveckla,Platform,FALSE,<p>kolla om vi har kvar den, Toni</p>
 Oracle DB,Avveckla,Platform,FALSE,<p></p>
