@@ -15,13 +15,13 @@ Visual basic,Avveckla,Språk & Ramverk,FALSE,<p>Programspråk i BASIC-familjen s
 ANT,Avveckla,Språk & Ramverk,FALSE,<p>Verktyg för att i första hand automatisera byggen av datorprogram skrivna i Java. BeBR</p>
 JMeter,Tillämpa,Verktyg,FALSE,<p>Lars uppdatera</p>
 Visual studio code,Tillämpa,Verktyg,FALSE,<p>Källkodseditor</p>
-Protractor,Utvärdera,Verktyg,FALSE,<p>Viktor uppdaterar</p>
+Protractor,Avveckla,Verktyg,FALSE,<p>Testverktyg för e2e-tester inbyggt i Angular. Avvecklas av Angular i slutet av 2022 (Angular 15)</p>
 Cypress,Utvärdera,Verktyg,TRUE,<p>Testverktyg för tester som körs i webbläsaren</p>
-Jasmine,Tillämpa,Verktyg,FALSE,<p>Viktor uppdaterar</p>
+Jasmine,Tillämpa,Verktyg,FALSE,<p>JavaScript-testverktyg för enhetstester</p>
 Log analytics,Tillämpa,Verktyg,FALSE,<p>Elastic search logstash Kibana paketerat av ITRS</p>
 npm,Tillämpa,Verktyg,FALSE,<p>Beroendehantering för node.js</p>
-Karma,Tillämpa,Verktyg,FALSE,<p>Viktor uppdaterar</p>
-Mocha,Tillämpa,Verktyg,FALSE,<p>Viktor uppdaterar</p>
+Karma,Avveckla,Verktyg,FALSE,<p>Testverktyg för att köra tester i webbläsaren</p>
+Mocha,Avveckla,Verktyg,FALSE,<p>JavaScript-testramverk</p>
 TopDesk,Tillämpa,Verktyg,TRUE,<p> IT helpdesk system</p>
 GPO,Tillämpa,Verktyg,FALSE,<p>Client & Server styrning</p>
 Bitbucket,Tillämpa,Verktyg,FALSE,<p>Versionshantering (förpackning av Git)</p>
