@@ -1,5 +1,6 @@
 name,ring,quadrant,isNew,description
-Angular,Avveckla,Språk & Ramverk,FALSE,<p>GUI ramverk för utveckling av e-tjänster och handläggningstjänster</p>
+Angular,Avveckla,Språk & Ramverk,FALSE,<p>GUI-ramverk för utveckling av e-tjänster och handläggningstjänster</p>
+React,Tillämpa,Språk & Ramverk,TRUE,<p>GUI-ramverk för utveckling av SPA-applikationer</p>
 SASS,Tillämpa,Språk & Ramverk,FALSE,<p>CSS kompilator</p>
 Powershell,Tillämpa,Språk & Ramverk,FALSE,<p>Kommandoskal för Windows. anders uppdaterar</p>
 Openlayers,Tillämpa,Språk & Ramverk,FALSE,<p> Klientramverk för utveckling av kartapplikationer	</p>
@@ -15,7 +16,7 @@ ANT,Avveckla,Språk & Ramverk,FALSE,<p>Verktyg för att i första hand automatis
 JMeter,Tillämpa,Verktyg,FALSE,<p>Lars uppdatera</p>
 Visual studio code,Tillämpa,Verktyg,FALSE,<p>Källkodseditor</p>
 Protractor,Utvärdera,Verktyg,FALSE,<p>Viktor uppdaterar</p>
-Cypress,Utvärdera,Verktyg,TRUE,<p>Viktor uppdaterar</p>
+Cypress,Utvärdera,Verktyg,TRUE,<p>Testverktyg för tester som körs i webbläsaren</p>
 Jasmine,Tillämpa,Verktyg,FALSE,<p>Viktor uppdaterar</p>
 Log analytics,Tillämpa,Verktyg,FALSE,<p>Elastic search logstash Kibana paketerat av ITRS</p>
 npm,Tillämpa,Verktyg,FALSE,<p>Beroendehantering för node.js</p>
