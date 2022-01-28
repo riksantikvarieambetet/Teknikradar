@@ -42,7 +42,7 @@ Draw.IO,Tillämpa,Verktyg,FALSE,<p> Visio i webläsaren. Skapa ritningar direkt 
 Cucumber,Utvärdera,Verktyg,FALSE,<p>behovsdriven testskapande. Kolla med Lars</p>
 Docker,Tillämpa,Verktyg,FALSE,<p> Virtualiserade Applikationer. Används idag av ISY för att testbygga sina applikationer.</p>
 Maven,Avveckla,Verktyg,FALSE,<p>Har vi gamla projekt som byggs med Maven?</p>
-GDPRverktyg,Tillämpa,Tekniker,FALSE,<p>Hugo kollar</p>
+Integrety,Tillämpa,Tekniker,FALSE,<p>GDPR-verktyg</p>
 Iipax,Tillämpa,Platform,FALSE,<p>e-arkiv</p>
 3-heights,Tillämpa,Platform,FALSE,<p>Konvertering av MS-office dokument till PDF/A</p>
 platina,Tillämpa,Platform,FALSE,<p>Ärendehandläggning och diarie</p>
